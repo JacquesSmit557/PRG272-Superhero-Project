@@ -1,5 +1,5 @@
-﻿Summary generated: 2025/10/20 22:23:12
-Total Heroes: 2
-Average Age: 37,00
-Average Exam Score: 93,00
-Rank Counts: C=0, B=0, A=0, S=2
+﻿Summary generated: 2025/10/20 21:54:30
+Total Heroes: 3
+Average Age: 24,00
+Average Exam Score: 85,67
+Rank Counts: C=0, B=0, A=1, S=2
