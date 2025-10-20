@@ -1,0 +1,15 @@
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\bin\Debug\net6.0-windows\SuperheroDB.exe
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\bin\Debug\net6.0-windows\SuperheroDB.deps.json
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\bin\Debug\net6.0-windows\SuperheroDB.runtimeconfig.json
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\bin\Debug\net6.0-windows\SuperheroDB.dll
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\bin\Debug\net6.0-windows\SuperheroDB.pdb
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.AssemblyInfoInputs.cache
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.AssemblyInfo.cs
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.csproj.CoreCompileInputs.cache
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.dll
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\refint\SuperheroDB.dll
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.pdb
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.genruntimeconfig.cache
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\ref\SuperheroDB.dll
+C:\Users\jacqu\OneDrive\Desktop\PRG272\PRG2782-SuperheroDB\PRG2782-SuperheroDB\SuperheroDB\obj\Debug\net6.0-windows\SuperheroDB.sourcelink.json
