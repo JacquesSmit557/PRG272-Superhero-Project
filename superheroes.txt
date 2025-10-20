@@ -1,0 +1,3 @@
+﻿HeroId,Name,Age,Superpower,ExamScore,Rank,ThreatLevel
+H002,Raymond,24,Genuis,98,S,Finals Week
+H003,Niki,50,best dad,45,B,Group Project Gone Wrong
